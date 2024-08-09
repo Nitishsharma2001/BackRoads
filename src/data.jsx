@@ -3,16 +3,14 @@ import tour2 from './assets/tour-2.jpeg'
 import tour3 from './assets/tour-3.jpeg'
 import tour4 from './assets/tour-4.jpeg'
 import about from './assets/about.jpeg'
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import { faWallet } from '@fortawesome/free-solid-svg-icons';
 import { faTree } from '@fortawesome/free-solid-svg-icons';
 import { faSocks } from '@fortawesome/free-solid-svg-icons';
 import { faBook } from '@fortawesome/free-solid-svg-icons';
-// import { faSocks } from '@fortawesome/free-solid-svg-icons';
-// import { faSocks } from '@fortawesome/free-solid-svg-icons';
 
 var images = { tour1, tour2, tour3, tour4, about };
-// console.log(images)
+
 
 var OurServices = [
     { id:1,'logo': faWallet, 'title': "Saving Money", 'des': "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia." },

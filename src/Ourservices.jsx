@@ -29,34 +29,7 @@ function OurServices() {
 
            };
 
-            {/* <div className='card'>
-              <div className='icon-container'>
-                <span className='icons'><FontAwesomeIcon icon={faWallet} /></span>
-              </div>
-              <div>
-                <h3>Saving Money</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.</p>
-              </div>
-            </div> */}
-            {/* <div className='card'>
-              <div className='icon-container'>
-                <span className='icons'><FontAwesomeIcon icon={faWallet} /></span>
-              </div>
-              <div>
-                <h3>Saving Money</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.</p>
-              </div>
-            </div>
-
-            <div className='card'>
-              <div className='icon-container'>
-                <span className='icons'><FontAwesomeIcon icon={faWallet} /></span>
-              </div>
-              <div>
-                <h3>Saving Money</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, officia.</p>
-              </div>
-            </div> */}
+            
 
           </div>
         </div>
